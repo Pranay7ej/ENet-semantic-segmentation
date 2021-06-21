@@ -1,1 +1,1 @@
-# Lane Detection on road using OpenCV
+# Lane Line Detection on road using OpenCV
